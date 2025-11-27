@@ -128,5 +128,6 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdzehadulislam8&" alt="mdzehadulislam8" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdzehadulislam8" alt="mdzehadulislam8" />
 </p>
+
