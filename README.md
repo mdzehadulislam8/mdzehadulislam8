@@ -14,7 +14,7 @@
 <br>
 
 <p>
-💻 I'm an <b>Undergraduate Student</b> at <a href="https://gub.ac.bd/" target="_blank"><b>Green University of Bangladesh</b></a>, Department of CSE.  
+💻 I'm an <b>Undergraduate Student</b> at <a href="https://www.green.edu.bd/" target="_blank"><b>Green University of Bangladesh</b></a>, Department of CSE.  
 </p>
 
 <p>
@@ -48,7 +48,7 @@
 <!-- Social links optional — you can add your URLs here -->
 </p>
 
-<h3 align="left">Languages and Tools :</h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
