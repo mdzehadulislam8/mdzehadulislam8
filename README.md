@@ -1,5 +1,5 @@
-<!-- Banner / Intro -->
-<h1 align="center">Hello There! 👋</h1>
+<h1 align="center">Hello There!</h1>
+
 <h2 align="center">I'm Zehadul Islam</h2>
 
 <p align="center">
@@ -11,9 +11,46 @@
   </a>
 </p>
 
+<p>
+💻 I'm an <b>Undergraduate Student</b> at 
+<a href="https://www.green.edu.bd/" 
+   target="_blank" 
+   style="text-decoration: none; color: #007ACC;">
+   <b>Green University of Bangladesh</b>
+</a>, Department of CSE.
+</p>
+
+
+
+<p>
+🌟 A <b>Passionate Machine Learning Engineer</b>, working on applied research, focusing on problem-solving and data analysis using ML.
+</p>
+
+<p>
+📜 Previously, I worked on various academic projects with real-life applications, gaining hands-on experience in implementing solutions.  
+</p>
+
+<p>
+🔭 I am currently working on my thesis, applying ML techniques to analyze data and extract meaningful insights. I am also tackling competitive problem-solving challenges.  
+</p>
+
+<p>
+📝 My <b>research interests</b> include Machine Learning, AI, Data Mining, and real-world problem solving.  
+</p>
+
+<p>
+💬 I'm always open to chat. Feel free to reach out to me via <a href="#">email</a> or <a href="#">LinkedIn</a>.  
+</p>
+
 ---
 
-## ⚔️ Competitive Programming
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/9598e31248e0d0f2f0067ae8cf24c68d2226621cdc3ee5303f930e4a3ea66ab4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=mdzehadulislam8&label=Profile%20views&color=0e75b6&style=flat" alt="mdzehadulislam8" /> 
+</p>
+
+<h2>⚔️ Competitive Programming</h2>
 
 <p>
   <a href="https://codeforces.com/" target="_blank">
@@ -37,42 +74,20 @@
   </a>
 </p>
 
----
+<br>
 
-## 📩 Contact Me
 
-<p>
-  <a href="mailto:eyasir329@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-eyasir329@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="mailto:gg.solve.zehadul999@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" width="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/zehadulislam/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="linkedin" width="40"/>
   </a>
 </p>
 
----
-
-## 👨‍💻 About Me
-
-💻 I'm an **Undergraduate Student** at  
-<a href="https://www.green.edu.bd/" target="_blank" style="text-decoration: none; color: #007ACC;">
-<b>Green University of Bangladesh</b>
-</a>, Department of CSE.
-
-🌟 A **Passionate Machine Learning Engineer**, working on applied research focused on problem-solving and data analysis.
-
-📜 Previously worked on academic projects with real-life applications & hands-on experience implementing ML solutions.
-
-🔭 Currently working on my thesis + competitive problem-solving.
-
-📝 **Research Interests:** Machine Learning, AI, Data Mining, Real-world problem solving.
-
-💬 Feel free to reach out anytime via **email** or **LinkedIn**.
-
----
-
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/9598e31248e0d0f2f0067ae8cf24c68d2226621cdc3ee5303f930e4a3ea66ab4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
-
----
-
-## 🛠 My Tech Stack
+<h2>🛠 My Tech</h2>
 
 ### 🧩 Languages
 <p>
@@ -104,22 +119,14 @@
   <img src="https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
----
-
-## 📊 GitHub Stats
-
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdzehadulislam8&show_icons=true&locale=en&layout=compact" alt="mdzehadulislam8"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdzehadulislam8&show_icons=true&locale=en&layout=compact" alt="mdzehadulislam8" />
+</p>
+
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mdzehadulislam8&show_icons=true&locale=en" alt="mdzehadulislam8" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mdzehadulislam8&show_icons=true&locale=en" alt="mdzehadulislam8"/>
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdzehadulislam8" alt="mdzehadulislam8"/>
-</p>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mdzehadulislam8&label=Profile%20views&color=0e75b6&style=flat"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdzehadulislam8&" alt="mdzehadulislam8" />
 </p>
