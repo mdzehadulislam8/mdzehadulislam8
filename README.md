@@ -20,11 +20,11 @@
 
 <style>
 .uni-link {
-    color: #007ACC;       /* নীল রঙ */
-    text-decoration: none; /* underline off */
+    color: #007ACC;       
+    text-decoration: none; 
 }
 .uni-link:hover {
-    text-decoration: none; /* hover এও underline আসবে না */
+    text-decoration: none; 
 }
 </style>
 
