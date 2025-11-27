@@ -44,7 +44,7 @@
 
 ---
 
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif">
+<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyaXBudDlnMWlsNzZ6NmV2OGV2ZTlqa2R1Ym4xNHpnZXMwaGR2aXQzYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=mdzehadulislam8&label=Profile%20views&color=0e75b6&style=flat" alt="mdzehadulislam8" /> 
