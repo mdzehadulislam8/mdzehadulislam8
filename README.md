@@ -52,7 +52,12 @@
   <img src="https://komarev.com/ghpvc/?username=mdzehadulislam8&label=Profile%20views&color=0e75b6&style=flat" alt="mdzehadulislam8" /> 
 </p>
 
+<!-- Competitive Programming Title -->
 <h2>⚔️ Competitive Programming</h2>
+
+<!-- Left-to-center highlight line -->
+<hr style="width: 45%; height: 2px; background-color: #000; border: none; margin-left: 0;">
+
 
 <p>
   <a href="https://codeforces.com/" target="_blank">
