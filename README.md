@@ -22,11 +22,11 @@
 </p>
 
 <p>
-📜 Previously, I worked on various academic projects with real-life applications, gaining hands-on experience in practical ML systems.  
+📜 Previously, I worked on various academic projects with real-life applications, gaining hands-on experience in implementing solutions.  
 </p>
 
 <p>
-🔭 I'm currently working on my <b>thesis</b>, applying Machine Learning techniques to analyze datasets and extract meaningful insights.  
+🔭 I am currently working on my thesis, applying ML techniques to analyze data and extract meaningful insights. I am also tackling competitive problem-solving challenges.  
 </p>
 
 <p>
