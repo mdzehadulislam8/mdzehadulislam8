@@ -16,7 +16,7 @@
 </p>
 
 <p>
-🌟 A <b>Passionate Machine Learning Engineer</b>, working on applied research, focusing on problem-solving and data analysis using ML.  
+🌟 A <b>Passionate Machine Learning Engineer</b>, working on applied research, focusing on problem-solving and data-driven insights using ML.  
 </p>
 
 <p>
@@ -28,7 +28,7 @@
 </p>
 
 <p>
-📝 My <b>research interests</b> include solving real-world problems using ML/AI.  
+📝 My <b>research interests</b> include Machine Learning, AI, Data Mining, and real-world problem solving.  
 </p>
 
 <p>
@@ -43,7 +43,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<!-- Social links optional — you can add your URLs here -->
+  <a href="mailto:gg.solve.zehadul999@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" width="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/zehadulislam/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="linkedin" width="40"/>
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
