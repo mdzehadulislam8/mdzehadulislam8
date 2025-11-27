@@ -14,8 +14,7 @@
 <p>
 💻 I'm an <b>Undergraduate Student</b> at 
 <a href="https://www.green.edu.bd/" 
-   target="_blank" 
-   style="text-decoration: none; color: #007ACC;">
+   target="_blank" >
    <b>Green University of Bangladesh</b>
 </a>, Department of CSE.
 </p>
@@ -24,9 +23,6 @@
 a {
     text-decoration: none;      /* underline off */
     color: #007ACC;            /* link color */
-}
-a:hover {
-    text-decoration: underline; /* hover করলে underline */
 }
 </style>
 
