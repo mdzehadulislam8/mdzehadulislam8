@@ -11,8 +11,6 @@
   </a>
 </p>
 
-<br>
-
 <p>
 💻 I'm an <b>Undergraduate Student</b> at <a href="https://www.green.edu.bd/" target="_blank"><b>Green University of Bangladesh</b></a>, Department of CSE.  
 </p>
