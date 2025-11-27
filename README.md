@@ -4,16 +4,16 @@
 
 <p align="center">
   <a href="https://twitter.com/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="twitter" width="35"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="twitter" width="30"/>
   </a>
   <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="linkedin" width="35"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="linkedin" width="30"/>
   </a>
 </p>
 
 <p>
 💻 I'm an <b>Undergraduate Student</b> at 
-<a href="https://www.green.edu.bd/" target="_blank" text-decoration: none  color: #007ACC;">
+<a href="https://www.green.edu.bd/" target="_blank" style="text-decoration: none; color: #007ACC;">
     <b>Green University of Bangladesh</b>
 </a>, Department of CSE.
 </p>
