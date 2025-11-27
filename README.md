@@ -13,10 +13,23 @@
 
 <p>
 💻 I'm an <b>Undergraduate Student</b> at 
-<a href="https://www.green.edu.bd/" target="_blank" text-decoration: none; color: #007ACC; >
-    <b>Green University of Bangladesh</b>
+<a href="https://www.green.edu.bd/" 
+   target="_blank" 
+   style="text-decoration: none; color: #007ACC;">
+   <b>Green University of Bangladesh</b>
 </a>, Department of CSE.
 </p>
+
+<style>
+a {
+    text-decoration: none;      /* underline off */
+    color: #007ACC;            /* link color */
+}
+a:hover {
+    text-decoration: underline; /* hover করলে underline */
+}
+</style>
+
 
 <p>
 🌟 A <b>Passionate Machine Learning Engineer</b>, working on applied research, focusing on problem-solving and data analysis using ML.
