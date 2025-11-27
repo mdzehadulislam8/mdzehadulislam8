@@ -14,7 +14,7 @@
 <br>
 
 <p>
-💻 I'm an <b>Undergraduate Student</b> at <b>Green University of Bangladesh</b>, Department of CSE.  
+💻 I'm an <b>Undergraduate Student</b> at <a href="https://gub.ac.bd/" target="_blank"><b>Green University of Bangladesh</b></a>, Department of CSE.  
 </p>
 
 <p>
