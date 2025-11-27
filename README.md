@@ -19,7 +19,7 @@
 </p>
 
 <p>
-🌟 A <b>Passionate Machine Learning Engineer</b>, working on applied research, focusing on problem-solving and data analysis using ML, and a competitive problem solver. 
+🌟 A <b>Passionate Machine Learning Engineer</b>, working on applied research, focusing on problem-solving and data analysis using ML.
 </p>
 
 <p>
