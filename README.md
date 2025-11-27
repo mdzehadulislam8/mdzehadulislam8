@@ -4,10 +4,10 @@
 
 <p align="center">
   <a href="https://twitter.com/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="40">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="twitter" width="45"/>
   </a>
   <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40">
+    <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="linkedin" width="45"/>
   </a>
 </p>
 
