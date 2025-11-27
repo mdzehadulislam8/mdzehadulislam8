@@ -12,7 +12,10 @@
 </p>
 
 <p>
-💻 I'm an <b>Undergraduate Student</b> at <a href="https://www.green.edu.bd/" target="_blank" tyle="text-decoration: none; color: #007ACC;"><b>Green University of Bangladesh</b></a>, Department of CSE.  
+💻 I'm an <b>Undergraduate Student</b> at 
+<a href="https://www.green.edu.bd/" target="_blank" style="text-decoration: none; color: #007ACC;">
+    <b>Green University of Bangladesh</b>
+</a>, Department of CSE.
 </p>
 
 <p>
