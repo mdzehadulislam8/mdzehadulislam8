@@ -16,7 +16,7 @@
 </p>
 
 <p>
-🌟 A <b>Passionate Machine Learning Engineer</b>, working on applied research, focusing on problem-solving and data-driven insights using ML.  
+🌟 A <b>Passionate Machine Learning Engineer</b>, working on applied research, focusing on problem-solving and data analysis using ML. 
 </p>
 
 <p>
