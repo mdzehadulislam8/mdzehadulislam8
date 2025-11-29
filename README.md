@@ -124,25 +124,13 @@
   <img src="https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
-<p>
-  <img 
-    align="left" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdzehadulislam8&layout=compact&theme=default" 
-  />
-</p>
+<div align="center">
 
-<p>&nbsp;
-  <img 
-    align="center" 
-    src="https://github-readme-stats.vercel.app/api?username=mdzehadulislam8&show_icons=true&theme=default" 
-  />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdzehadulislam8&layout=compact" />
 
-<p>
-  <img 
-    align="center" 
-    src="https://streak-stats.demolab.com?user=mdzehadulislam8" 
-  />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=mdzehadulislam8&show_icons=true" />
 
+<img src="https://streak-stats.demolab.com?user=mdzehadulislam8" />
+
+</div>
 
