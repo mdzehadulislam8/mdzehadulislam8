@@ -125,15 +125,14 @@
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdzehadulislam8&layout=compact" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdzehadulislam8&show_icons=true&locale=en&layout=compact" alt="mdzehadulislam8" />
+</p>
+
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mdzehadulislam8&show_icons=true&locale=en" alt="mdzehadulislam8" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mdzehadulislam8&show_icons=true" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdzehadulislam8" alt="mdzehadulislam8" />
 </p>
-
-<p>
-  <img align="center" src="https://streak-stats.demolab.com?user=mdzehadulislam8" />
-</p>
-
 
