@@ -118,21 +118,31 @@
 </p>
 
 
-### 🗄️ Databases:
+### 🗄️ Databases
 <p>
   <img src="https://img.shields.io/badge/MySQL-0F6DB3?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdzehadulislam8&show_icons=true&locale=en&layout=compact" alt="mdzehadulislam8" />
+  <img 
+    align="left" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdzehadulislam8&layout=compact&theme=default" 
+  />
 </p>
 
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mdzehadulislam8&show_icons=true&locale=en" alt="mdzehadulislam8" />
+  <img 
+    align="center" 
+    src="https://github-readme-stats.vercel.app/api?username=mdzehadulislam8&show_icons=true&theme=default" 
+  />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdzehadulislam8" alt="mdzehadulislam8" />
+  <img 
+    align="center" 
+    src="https://streak-stats.demolab.com?user=mdzehadulislam8" 
+  />
 </p>
+
 
