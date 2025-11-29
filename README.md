@@ -118,7 +118,7 @@
 </p>
 
 
-### 🗄️ Databases
+### 🗄️ Databases:
 <p>
   <img src="https://img.shields.io/badge/MySQL-0F6DB3?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white"/>
