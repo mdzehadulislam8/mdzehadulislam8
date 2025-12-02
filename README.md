@@ -52,7 +52,6 @@
   <img src="https://komarev.com/ghpvc/?username=mdzehadulislam8&label=Profile%20views&color=0e75b6&style=flat" alt="mdzehadulislam8" />
 </p>
 
-
 <h2>⚔️ Competitive Programming</h2>
 
 <p>
