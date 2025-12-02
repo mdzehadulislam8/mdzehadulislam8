@@ -56,7 +56,7 @@
 <div style="clear: both;"></div>
 
 <!-- Centered Profile Views -->
-<p align="center" style="margin-top: 30px;">
+<p align="right" style="margin-top: 04px;">
   <img src="https://komarev.com/ghpvc/?username=mdzehadulislam8&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
 
