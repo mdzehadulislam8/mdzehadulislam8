@@ -54,7 +54,7 @@
 
 <!-- Centered Profile Views -->
 <p align="right" style="margin-top: 20px; margin-right: 40px;">
-  <span style="padding-left: 80px;">
+  <span style="padding-left: -80px;">
     <img src="https://komarev.com/ghpvc/?username=mdzehadulislam8&label=Profile%20views&color=0e75b6&style=flat" />
   </span>
 </p>
