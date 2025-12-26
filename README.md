@@ -141,21 +141,21 @@
 
 ## 📈 GitHub Activity Overview
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdzehadulislam8&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdzehadulislam8&show_icons=true&theme=dark&hide_border=false)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=mdzehadulislam8&theme=dark)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=mdzehadulislam8&theme=dark&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdzehadulislam8&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdzehadulislam8&layout=compact&theme=dark&hide_border=false)
 
 ---
 
 ## ⭐ Most Active Repositories
 
-![Contributor Stats](https://github-contributor-stats.vercel.app/api?username=mdzehadulislam8&limit=5&theme=tokyonight)
+![Contributor Stats](https://github-contributor-stats.vercel.app/api?username=mdzehadulislam8&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
 
-![Profile Views](https://visitcount.itsvg.in/api?id=mdzehadulislam8&label=Profile%20Views&color=0&icon=5)
+![Profile Views](https://visitcount.itsvg.in/api?id=mdzehadulislam8&label=Profile%20Views&icon=5&color=0)
 
 
 
