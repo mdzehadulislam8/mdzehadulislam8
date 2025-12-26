@@ -155,7 +155,8 @@
 
 ---
 
-![Profile Views](https://visitcount.itsvg.in/api?id=mdzehadulislam8)
+![Profile Views](https://visitcount.itsvg.in/api?id=mdzehadulislam8&label=Profile%20Views&color=0&icon=5)
+
 
 
 
