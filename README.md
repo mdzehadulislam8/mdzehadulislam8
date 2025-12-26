@@ -139,20 +139,16 @@
   <img src="https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Md-Abdullah-Al-Moin&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Md-Abdullah-Al-Moin&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Abdullah-Al-Moin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 📫 Connect With Me
-📧 **Email:** your-email@example.com  
-💼 **LinkedIn:** https://linkedin.com/in/your-profile  
-🌐 **Portfolio:** Coming Soon  
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Md-Abdullah-Al-Moin&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+### 📈 GitHub Activity Overview
+![](https://github-readme-stats.vercel.app/api?username=mdzehadulislam8&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mdzehadulislam8&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdzehadulislam8&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+ 
+### ⭐ Most Active Repositories
+![](https://github-contributor-stats.vercel.app/api?username=mdzehadulislam8&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Md-Abdullah-Al-Moin&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=mdzehadulislam8&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ⭐ *Open to internships, collaborations, and impactful software projects.*
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
