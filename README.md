@@ -39,7 +39,7 @@
 </p>
 
 <p>
-💬 I'm always open to chat. Feel free to reach out to me via <a href="#">email</a> or <a href="#">LinkedIn</a>.  
+💬 I'm always open to chat. Feel free to reach out to me via <a href="zehadul.ace@gmail.com">Email</a> or <a href="https://www.linkedin.com/in/zehadulislam/">LinkedIn</a>.  
 </p>
 
 ---
