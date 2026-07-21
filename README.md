@@ -21,21 +21,24 @@
 </p>
 
 
-
 <p>
-🌟 A <b>Passionate Machine Learning Engineer</b>, working on applied research, focusing on problem-solving and data analysis using ML.
+🌟 A <b>Data Analyst</b> with a strong interest in <b>Data Science, Machine Learning, and AI</b>, passionate about data-driven problem-solving and extracting meaningful insights from data.
 </p>
 
 <p>
-📜 Previously, I worked on various academic projects with real-life applications, gaining hands-on experience in implementing solutions.  
+💼 I have internship experience in <b>Data Science</b>, where I gained hands-on experience working with real-world data, applying analytical techniques, and developing practical data-driven solutions.
 </p>
 
 <p>
-🔭 I am currently working on my thesis, applying ML techniques to analyze data and extract meaningful insights. I am also tackling competitive problem-solving challenges.  
+🔭 I am currently working as a <b>Data Analyst</b> and actively involved in ongoing <b>research</b>, focusing on applying Machine Learning and AI techniques to analyze data and solve real-world problems.
 </p>
 
 <p>
-📝 My <b>research interests</b> include Machine Learning, AI, Data Mining, and real-world problem solving.  
+📜 I have also worked on various academic and real-world projects, gaining practical experience in <b>Data Analysis, Machine Learning, AI, and Problem Solving</b>.
+</p>
+
+<p>
+📝 My <b>research interests</b> include Data Science, Machine Learning, Artificial Intelligence, Data Mining, Explainable AI, and real-world problem solving.
 </p>
 
 <p>
