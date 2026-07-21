@@ -12,7 +12,7 @@
 </p>
 
 <p>
-💻 I'm an <b>Undergraduate Student</b> at 
+💻 I'm a <b>Graduate</b> of 
 <a href="https://www.green.edu.bd/" 
    target="_blank" 
    style="text-decoration: none; color: #007ACC;">
