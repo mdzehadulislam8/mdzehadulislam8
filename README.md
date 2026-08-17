@@ -35,7 +35,7 @@
 </p>
 
 <p>
-📝 My <b>research interests</b> include Data Science, Machine Learning, Artificial Intelligence, Data Mining, Explainable AI, and real-world problem solving.
+📝 My <b>research interests</b> include Data Science, Machine Learning, Explainable AI (XAI), Computer Vision, LLMs, Multi-modal AI, and Generative AI applications.
 </p>
 
 <p>
